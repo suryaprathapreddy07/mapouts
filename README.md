@@ -1,3 +1,3 @@
-#Mapouts
+#mapouts
 
 workouts mapping application
